@@ -1,0 +1,11 @@
+OrderID,OrderDate,ShipDate,CustomerID,CustomerName,Segment,City,State,Region,ProductID,Category,SubCategory,ProductName,Sales,Quantity,Discount,Profit,PaymentMode
+1001,2024-01-05,2024-01-07,C001,Aarav Nair,Consumer,Kochi,Kerala,South,P101,Furniture,Chair,Ergo Chair,8500,2,0.10,900,Credit Card
+1002,2024-01-06,2024-01-09,C002,Ananya Iyer,Corporate,Chennai,Tamil Nadu,South,P205,Technology,Laptop,Ultrabook X,72000,1,0.05,12000,UPI
+1003,2024-01-06,2024-01-10,C003,Rahul Verma,Home Office,Delhi,Delhi,North,P301,Office Supplies,Paper,A4 Pack,500,5,0.00,120,Cash
+1004,2024-01-07,2024-01-11,C004,Priya Singh,Consumer,Mumbai,Maharashtra,West,P410,Furniture,Table,Study Table,12500,1,0.15,1500,Debit Card
+1005,2024-01-08,2024-01-12,C005,Karan Shah,Corporate,Ahmedabad,Gujarat,West,P220,Technology,Phone,Smartphone Z,32000,1,0.08,5000,UPI
+1006,2024-01-08,2024-01-14,C006,Neha Gupta,Consumer,Bangalore,Karnataka,South,P305,Office Supplies,Pen,Ball Pen Set,300,10,0.00,90,Cash
+1007,2024-01-09,2024-01-13,C007,Arjun Mehta,Home Office,Jaipur,Rajasthan,North,P120,Furniture,Sofa,Compact Sofa,22000,1,0.12,3500,Credit Card
+1008,2024-01-10,2024-01-15,C008,Divya Reddy,Consumer,Hyderabad,Telangana,South,P230,Technology,Tablet,Tab Pro,28000,1,0.07,4200,Debit Card
+1009,2024-01-11,2024-01-16,C009,Vikram Joshi,Corporate,Pune,Maharashtra,West,P315,Office Supplies,Notebook,Spiral Notebook,1200,6,0.02,300,UPI
+1010,2024-01-12,2024-01-18,C010,Sneha Pillai,Consumer,Thiruvananthapuram,Kerala,South,P205,Technology,Laptop,Ultrabook X,71000,1,0.06,11000,Credit Card
