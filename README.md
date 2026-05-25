@@ -92,6 +92,4 @@ Key Skills Demonstrated
 
 ---
 
-## 🚀 Author
 
-Your Name
