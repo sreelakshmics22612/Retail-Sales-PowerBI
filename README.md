@@ -1,13 +1,13 @@
 # Retail Sales Analytics Dashboard — Power BI
 
-## 📊 Project Overview
+## Project Overview
 
 This project presents an end-to-end Retail Sales Analytics Dashboard built using Microsoft Power BI.
 It provides insights into sales performance, product trends, customer behavior, and future forecasts.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze overall business performance
 * Identify top-performing products
@@ -41,7 +41,7 @@ Sample retail sales dataset including:
 * Segment distribution
 * Geographic sales map
 
-### 📦 Page 2 — Product Analysis
+###  Page 2 — Product Analysis
 
 * Top 10 products by sales
 * Category & subcategory breakdown
@@ -86,7 +86,7 @@ Key Skills Demonstrated
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 (See screenshots folder)
 
